@@ -9,7 +9,7 @@ class MovieMapper {
     adult: moviedb.adult, 
     backdropPath: (moviedb.backdropPath != '') 
       ? 'https://image.tmdb.org/t/p/w500${moviedb.backdropPath}'
-      : '/assets/not-found.png',
+      : '/assets/not_found.png',
     genreIds: moviedb.genreIds.map((e) => e.toString()).toList(), 
     id: moviedb.id,
     originalLanguage: moviedb.originalLanguage,

@@ -1,0 +1,19 @@
+{
+  "@@locale": "es",
+  "welcomeMessage": "¡Bienvenido a mi app!",
+  "hello": "¡Hola, {name}!",
+  "menu": {
+    "home": "Inicio",
+    "settings": "Ajustes",
+    "about": "Acerca de"
+  },
+  "home": {
+    "inTheatersTitle" : "En cines",
+    "inTheatersSubtitle": "Lunes 20",
+    "thisMonTitle": "Este mes",
+    "polularTitle": "Populares",
+    "upcomingTitle": "Proximamente",
+    "bestTitle" : "Mejor calificadas",
+    "bestSubtitle": "Todos los tiempos"
+  }
+}

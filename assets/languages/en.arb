@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "welcomeMessage": "Welcome to my app!",
+  "hello": "Hello, {name}!",
+  "menu": {
+    "home": "Home",
+    "settings": "Settings",
+    "about": "About"
+  },
+  "home": {
+    "inTheatersTitle" : "In theaters",
+    "inTheatersSubtitle": "Moons 20",
+    "thisMonTitle": "This month",
+    "polularTitle": "Popular",
+    "bestTitle" : "Best rated",
+    "upcomingTitle": "Upcoming",
+    "bestSubtitle": "All times"
+  }
+}
